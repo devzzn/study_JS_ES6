@@ -1,2 +1,6 @@
 test01 - var 키워드의 특징, let 키워드 사용 특징
 test02 - let 키워드 특징 (중복 선언 금지, 호이스팅)
+test03 - 전역변수 예시
+test04 - 전역객체(global 객체)
+test05 - const 키워드 특징
+test06 - var, let, const 특징
